@@ -1,4 +1,4 @@
-# 📐 Java Advanced - Homework 3
+# 📐 Java Advanced
 
 Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dynamic programming.
 
