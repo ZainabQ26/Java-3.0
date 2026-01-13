@@ -26,6 +26,3 @@ Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dy
 
 ## 💬 Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
-
----
-*Penn State University - Computer Science*
