@@ -25,7 +25,7 @@ Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dy
 - Algorithm design
 
 ## 💬 Contact
-**Zainab Qazi** - [GitHub](https://github.com/zozo080212) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
+**Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
 
 ---
 *Penn State University - Computer Science*
