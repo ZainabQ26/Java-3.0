@@ -15,10 +15,7 @@ Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dy
 - File I/O operations
 - Array manipulation
 - Algorithm optimization
-- Recursion and dynamic programming
-- Custom class design
-- Text file parsing
-
+- Recursion 
 ## 🛠️ Technologies
 - Java
 - Intellij
