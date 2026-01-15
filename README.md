@@ -21,8 +21,7 @@ Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dy
 
 ## 🛠️ Technologies
 - Java
-- File handling
-- Algorithm design
+- Intellij
 
 ## 💬 Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
