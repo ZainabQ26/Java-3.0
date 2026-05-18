@@ -1,8 +1,8 @@
-# 📐 Java Advanced
+#  Java Advanced
 
 Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dynamic programming.
 
-## 💻 Projects
+##  Projects
 
 - **Calculator** - Command-line calculator with multiple operations
 - **Book Rating** - Reads and analyzes book ratings from file
@@ -11,14 +11,14 @@ Advanced Java projects featuring algorithms, file I/O, arrays, recursion, and dy
 - **JumpIt** - Dynamic programming game solver
 - **MyMathClass** - Custom math utility library with advanced functions
 
-## 🎓 Key Concepts
+##  Key Concepts
 - File I/O operations
 - Array manipulation
 - Algorithm optimization
 - Recursion 
-## 🛠️ Technologies
+##  Technologies
 - Java
 - Intellij
 
-## 💬 Contact
+##  Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
